@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alex.cimadev@gmail.com
+	name = Alexis Cimadevilla
